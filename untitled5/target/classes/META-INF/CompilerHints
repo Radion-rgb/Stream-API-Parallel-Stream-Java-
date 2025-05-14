@@ -1,0 +1,16 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,benchmark/StreamBenchmark.parAvg
+inline,benchmark/StreamBenchmark.parDouble
+inline,benchmark/StreamBenchmark.parFilter
+inline,benchmark/StreamBenchmark.parStdDev
+inline,benchmark/StreamBenchmark.parSum
+inline,benchmark/StreamBenchmark.seqAvg
+inline,benchmark/StreamBenchmark.seqDouble
+inline,benchmark/StreamBenchmark.seqFilter
+inline,benchmark/StreamBenchmark.seqStdDev
+inline,benchmark/StreamBenchmark.seqSum
+inline,benchmark/StreamBenchmark.setup

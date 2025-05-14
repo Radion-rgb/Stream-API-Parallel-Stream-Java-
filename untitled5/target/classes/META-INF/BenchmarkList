@@ -1,0 +1,10 @@
+JMH S 25 benchmark.StreamBenchmark S 54 benchmark.jmh_generated.StreamBenchmark_parAvg_jmhTest S 6 parAvg S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 57 benchmark.jmh_generated.StreamBenchmark_parDouble_jmhTest S 9 parDouble S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 57 benchmark.jmh_generated.StreamBenchmark_parFilter_jmhTest S 9 parFilter S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 57 benchmark.jmh_generated.StreamBenchmark_parStdDev_jmhTest S 9 parStdDev S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 54 benchmark.jmh_generated.StreamBenchmark_parSum_jmhTest S 6 parSum S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 54 benchmark.jmh_generated.StreamBenchmark_seqAvg_jmhTest S 6 seqAvg S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 57 benchmark.jmh_generated.StreamBenchmark_seqDouble_jmhTest S 9 seqDouble S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 57 benchmark.jmh_generated.StreamBenchmark_seqFilter_jmhTest S 9 seqFilter S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 57 benchmark.jmh_generated.StreamBenchmark_seqStdDev_jmhTest S 9 seqStdDev S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 25 benchmark.StreamBenchmark S 54 benchmark.jmh_generated.StreamBenchmark_seqSum_jmhTest S 6 seqSum S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
